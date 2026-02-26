@@ -6,7 +6,7 @@ with st.sidebar:
     st.write("Adresse:DakarPlateau")
 st.subheader("COMPETENCES")
 st.write("géoréferencement")
-st.write("numerisation")
+st.write("numérisation")
 st.write("maitrise des logiciels SIG:ARCGIS et QGIS") 
 st.subh("FORMATIONS")
 st.write("bts en géomatique")
