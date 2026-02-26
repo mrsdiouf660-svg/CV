@@ -4,7 +4,7 @@ with st.sidebar:
     st.write("CONTACTS")
     st.write("Mrsdiouf660@gmail.com")
     st.write("Adresse:DakarPlateau")
-st.subheader("COMPETENCES")🎢
+st.subheader("COMPETENCES")✍️
 st.write("géoréferencement")
 st.write("numerisation")
 st.write("maitrise des logiciels SIG:ARCGIS et QGIS") 
